@@ -1,4 +1,6 @@
 // Author: Aidan Fisher
+// Note, this version is quite unstable to run due to some "testing" features.
+// https://www.youtube.com/watch?v=N7PLrh1VAWk (3rd gravity planet video, Gravity Planet: Week 2)
 
 import java.applet.*;
 import java.awt.*;
